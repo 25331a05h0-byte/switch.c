@@ -22,5 +22,7 @@ break;
 default:
 	printf("invalid choice/n");
 }
+	printf(“\n               25331A05H0”);
+
 return 0;
 }
